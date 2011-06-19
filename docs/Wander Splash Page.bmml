@@ -1,0 +1,100 @@
+<mockup version="1.0" skin="sketch" measuredW="1553" measuredH="759" mockupW="1295" mockupH="744">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="258" y="15" w="1101" h="725" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Wander.com%20-%20Not%20All%20Who%20Wander%20are%20Lost%0Ahttp%3A//www.wand.er</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="1226" y="108" w="-1" h="-1" measuredW="63" measuredH="31" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="719" y="108" w="411" h="107" measuredW="280" measuredH="107" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>72</size>
+        <text>wand.er</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="678" y="198" w="317" h="26" measuredW="315" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Not%20All%20Who%20Wander%20Are%20Lost...%20Especially%20You.</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="639" y="128" w="73" h="66" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Our%20Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::LinkBar" x="621" y="670" w="-1" h="-1" measuredW="373" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%2C%20About%20Us%2C%20My%20Wander%2C%20Contact%20Us%2C%20Legal</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="624" y="572" w="-1" h="-1" measuredW="112" measuredH="31" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Try%20It%20Out</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="745" y="573" w="112" h="31" measuredW="84" measuredH="31" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Sign%20Up</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="870" y="573" w="125" h="31" measuredW="133" measuredH="31" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Example%20Trips</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextArea" x="290" y="158" w="309" h="519" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Wand.er%20gives%20you%20the%20power%20to%20build%20your%20perfect%20trip.%0A%20%0AFind%20your%20perfect%20route%20and%20activities%20with%20our%20advanced%20search%20and%20filtering%20features%2C%20including%20reviews%20from%20other%20users.%20%0A%20%0APut%20it%20all%20together%20with%20our%20Itinerary%20Builder%3A%20see%20where%20you%27re%20going%20and%20when%2C%20how%20to%20get%20there%2C%20and%20who%20to%20contact%20in%20case%20things%20need%20to%20change.%20%0A%20%0ASee%20and%20change%20your%20itinerary%20on%20your%20mobile%20phone%3A%20the%20only%20time%20you%27ll%20get%20lost%20is%20when%20you%20want%20to.%0A%20%0AAnd%20in%20the%20end%2C%20add%20photos%2C%20comments%2C%20and%20stories%20of%20your%20trip%20to%20your%20itinerary%20and%20share%20with%20friends%20and%20family.%0A%20%0AIt%27s%20all%20you%27ll%20need%20to%20make%20the%20perfect%20roadtrip%2C%20backpacking%20tour%2C%20or%20any%20other%20vacation%2C%20from%20conception%20to%20showing%20it%20all%20off.%20%0A%20%0ASo%20go%20on%3A%20get%20wandering.</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Image" x="1053" y="193" w="263" h="153" measuredW="77" measuredH="79" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pic</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="1053" y="363" w="263" h="153" measuredW="77" measuredH="79" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pic</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Image" x="1052" y="535" w="263" h="153" measuredW="77" measuredH="79" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pic</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="621" y="250" w="-1" h="-1" measuredW="330" measuredH="40" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Greetings%2C%20fellow%20wanderer.</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="621" y="290" w="378" h="89" measuredW="1065" measuredH="25" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>We%20created%20wand.er%20to%20take%20the%20frustration%20out%20of%20planning%20and%20executing%20a%20great%20trip%2C%20so%20you%20could%20spend%20less%20time%20worrying%20and%20more%20time%20creating%20amazing%20memories.</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="621" y="379" w="378" h="89" measuredW="1258" measuredH="25" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>We%27ve%20shared%20our%20own%20trips%20with%20you%20to%20give%20you%20an%20idea%20of%20how%20it%20works--or%2C%20you%20can%20just%20start%20trying%20it%20out%20yourself.%20The%20service%20is%20free.%20So%20join%20us%2C%20fellow%20wanderer%3A%20your%20next%20adventure%20awaits.</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Arrow" x="739" y="604" w="697" h="66" measuredW="150" measuredH="100" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::StickyNote" x="1444" y="636" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>This%20will%20lead%20to%20the%20Trip%20Planner</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
